@@ -2,7 +2,7 @@
 
 <h1> لعبة (X - O) بالجافاسكريبت  </h1>    
 
-<div>  باستخدام :  html - Css - JS  -bootstrap    </div>
+<div>  باستخدام :  html - Css - JS     </div>
 
 <br>
 <img width="626" height="595" alt="Screenshot 2025-07-26 235928" src="https://github.com/user-attachments/assets/62501f29-8182-42c1-976f-a2d6a64a07e4"/> <hr>
